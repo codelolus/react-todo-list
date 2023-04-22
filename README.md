@@ -4,14 +4,13 @@ A simple to-do list in React. First you need to log in, then you can play with t
 
 ## Table of contents
 
-- [Frontend Mentor - Order summary card solution](#frontend-mentor---order-summary-card-solution)
-  - [Table of contents](#table-of-contents)
-  - [Overview](#overview)
-    - [Screenshot](#screenshot)
-    - [Links](#links)
-  - [My process](#my-process)
-    - [Built with](#built-with)
-  - [Author](#author)
+- [Table of contents](#table-of-contents)
+- [Overview](#overview)
+  - [Screenshot](#screenshot)
+  - [Links](#links)
+- [My process](#my-process)
+  - [Built with](#built-with)
+- [Author](#author)
 
 ### Screenshot
 
