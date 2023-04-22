@@ -22,9 +22,9 @@ A simple to-do list in React. First you need to log in, then you can play with t
 
 ### Built with
 
-- Semantic HTML5 markup
-- CSS custom properties
-- Flexbox
+- React.js
+- UseState options
+- CSS 3
 
 ## Author
 
